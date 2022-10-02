@@ -10,8 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/IbCcsxPmxGzKugAa70/200w.webp?cid=ecf05e4705ndq0o0a6hzy8vc75mw9ar3gq27q1aaez0ajysp&rid=200w.webp&ct=s
-​"/>
+
 </div>
 ---
 
