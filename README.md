@@ -1,5 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
+    <img src="[https://media0.giphy.com/media/IbCcsxPmxGzKugAa70/200w.webp?cid=ecf05e4705ndq0o0a6hzy8vc75mw9ar3gq27q1aaez0ajysp&rid=200w.webp&ct=s](https://giphy.com/gifs/grownish-ff-freeform-grown-ish-Ufo3SB8BGdgkFGQLgA)
+​"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/lilianwangechi/">
