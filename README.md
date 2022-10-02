@@ -1,6 +1,5 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/hulu-shrill-season-2-KYhvu4LyaNTP78AGN5" width=""> 
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/lilianwangechi/">
