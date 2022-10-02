@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img src=["https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"](https://giphy.com/gifs/hulu-shrill-season-2-KYhvu4LyaNTP78AGN5) width="30"> 
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/lilianwangechi/">
